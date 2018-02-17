@@ -1,0 +1,38 @@
+postTraversal(List)
+    if len(List) == 1 or len(List) == 0:
+        return True
+    else:
+        root = List[len(List)-1] #last element of tree is root
+        subtrees = List[0 ... len(list) - 2] #subtrees are everything but the root
+        i = 0
+        firstGreater = null
+        while i < len(subtrees)-1: #find the 1st index where the node is greater than root
+            if subtrees[i] > root
+                firstGreater = i
+                break
+            else:
+                i++
+        if firstGreater == null: #Subtree contain only left subtree
+            for node in subtrees:
+                if node > root: #check if all nodes in left subtree lesser than root
+                    return False
+            leftTree = subtrees
+            rightTree = []
+        else:
+            for node in [firstGreater + 1 ... len(subtrees) - 1]:
+                if node < root: #check if all nodes after firstGreater is greater than root
+                    return False 
+            if firstGreater == 0: #Only right subtree 
+                leftTree = []
+                rightTree = subtrees
+            else:
+                leftTree = [0 to i]
+                rightTree = [i+1 ... len(subtrees)-1]
+        leftTreePost = postTraversal(leftTree)
+        rightTreePost = postTraversal(rightTree)
+        if leftTreePost and rightTree:
+            return True
+        else:
+            return False
+            
+        

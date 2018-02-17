@@ -1,0 +1,848 @@
+Order SES Blue
+Order SES Red
+Order SE Beige
+Order SE Green
+Picker Alice ready
+Order S Beige
+Order SES Green
+Order SE Black
+Picker Alice scans 11
+Order SE Green
+Picker Alice scans 12
+Picker Alice scans 21
+Order SE Red
+Order S Green
+Order SES White
+Order S Beige
+Picker Bob ready
+Picker Alice scans 21 # wrong scan
+Picker Bob scans 9
+Picker Alice scans 22
+Picker Alice scans 27
+Picker Bob scans 10
+Order SES Black
+Picker Bob scans 27
+Picker Alice scans 28
+Picker Bob scans 28
+Picker Bob scans 29
+Picker Alice scans 37
+Order SE Blue
+Picker Alice scans 38
+Order S White
+Picker Alice completes picking#####
+Picker Bob scans 30
+Picker Bob scans 43
+Picker Alice ready
+Sequencer Sue ready
+Picker Alice scans 5
+Sequencer Sue scans 27
+Sequencer Sue scans 11
+Picker Alice scans 6
+Sequencer Sue scans 21
+Sequencer Sue scans 37
+Sequencer Sue scans 28
+Sequencer Sue scans 12
+Sequencer Sue scans 22
+Sequencer Sue scans 38
+Order S White
+Sequencer Sue completes sequencing #SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Picker Bob scans 44
+Loader Bill ready
+Sequencer Sue ready # nothing ready to sequence
+Loader Bill scans 27
+Loader Bill scans 11
+Picker Alice scans 9
+Picker Bob completes picking#####
+Sequencer Sue ready
+Sequencer Sue scans 27
+Sequencer Sue scans 43
+Sequencer Sue scans 29
+Sequencer Sue scans 9
+Sequencer Sue scans 28
+Sequencer Sue scans 44
+Loader Bill scans 21
+Loader Bill scans 37
+Sequencer Sue scans 30
+Sequencer Sue scans 10
+Loader Bill scans 28
+Loader Bill scans 12
+Sequencer Sue completes sequencing #SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Picker Alice scans 10
+Picker Bob ready
+Loader Bill scans 22
+Loader Bill scans 38
+Picker Alice scans 19
+Loader Bill completes loading ###
+Picker Bob scans 1
+Picker Bob scans 1 # same fascia in one order
+Loader Bill ready
+Picker Alice scans 20
+Picker Bob scans 2
+Picker Bob scans 2
+Loader Bill scans 27
+Loader Bill scans 43
+Picker Alice scans 25
+Picker Alice scans 25 # scanned twice
+Loader Bill scans 29
+Loader Bill scans 9
+Picker Alice scans 26
+Picker Bob scans 35
+Loader Bill scans 28
+Loader Bill scans 44
+Picker Alice completes picking#####
+Loader Bill scans 30 
+Loader Bill scans 10
+Sequencer Sue ready
+Sequencer Sue scans 9
+Sequencer Sue scans 5
+Sequencer Sue scans 25
+Sequencer Sue scans 19
+Loader Bill completes loading ###
+Sequencer Sue scans 10
+Sequencer Sue scans 6
+Sequencer Sue scans 26
+Sequencer Sue scans 20
+Sequencer Sue completes sequencing #SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Loader Bill ready
+Picker Bob scans 36
+Picker Bob scans 45
+Picker Bob scans 46
+Replenisher Ruby replenish A 1 1 2
+Loader Bill scans 9
+Loader Bill scans 5
+Loader Bill scans 25
+Loader Bill scans 19
+Picker Bob completes picking#####
+Loader Bill scans 10
+Loader Bill scans 6
+Loader Bill scans 26
+Loader Bill scans 20
+Loader Bill completes loading ###
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 1
+Sequencer Sue scans 35
+Sequencer Sue scans 2 # wrong scan
+Sequencer Sue rescans
+Loader Bill ready # nothing yet ready for loading
+Sequencer Sue scans 1
+Sequencer Sue scans 1
+Sequencer Sue scans 35
+Sequencer Sue scans 45
+Sequencer Sue scans 2
+Sequencer Sue scans 2
+Sequencer Sue scans 36
+Sequencer Sue scans 46
+Sequencer Sue completes sequencing #SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 1
+Loader Bill scans 1 # wrong scan
+Loader Bill rescans
+Loader Bill scans 1
+Loader Bill scans 1
+Loader Bill scans 35
+Loader Bill scans 45
+Loader Bill scans 2
+Loader Bill scans 2
+Loader Bill scans 36
+Loader Bill scans 46
+Loader Bill completes loading ###
+#
+# 16 orders so far... adding more
+#
+Order SES Black
+Order SES Black
+Order SES Black
+Order SES Black
+#
+Order SES Black
+Order SES Black
+Order SES Black
+Order SES Black
+#
+Order SES Black
+Order SES Black
+Order SES Black
+Order SES Black
+#
+Order SES Black
+Order SES Black
+Order SES Black
+Order SES Black
+$
+Picker Paul ready
+Picker Paul scans 45
+Picker Paul scans 45
+Picker Paul scans 45
+Picker Paul scans 45
+Picker Paul scans 45 // wrong
+Picker Paul scans 45 // wrong again
+Picker Paul scans 46
+Picker Paul scans 46
+Picker Paul scans 45 // wrong yet again
+Picker Paul scans 46
+Picker Paul scans 46
+Picker Paul completes picking order1
+#
+Picker Alice ready
+Picker Alice ready // ready twice?
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice completes picking order2
+#
+#
+Picker Alice ready
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice completes picking order3
+#
+#
+Sequencer Sue ready
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue completes sequencing order1
+#
+Sequencer Sue ready
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue completes sequencing order2
+#
+#
+Sequencer Sue ready
+#error
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45 // wrong, rescan
+Sequencer Sue rescans
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45 // wrong, Picker screwed up
+Sequencer Sue discards order3
+#
+#
+Picker Alice ready //picker repicks
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 45
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice scans 46
+Picker Alice completes picking order3
+#
+Picker Jason ready
+Picker Jason scans 45
+Picker Jason scans 45
+Picker Jason scans 45
+Picker Jason scans 45
+Picker Jason scans 46
+Picker Jason scans 46
+Picker Jason scans 46
+Picker Jason scans 46
+Picker Jason completes picking order4
+#
+Sequencer Sue ready
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue completes sequencing order3
+#
+#
+Sequencer Sue ready
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 45
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue scans 46
+Sequencer Sue completes sequencing order4
+#
+Loader Bill ready
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill completes order1
+#
+Loader Bill ready
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill completes order2
+#
+Loader Bill ready
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill completes order4
+#
+#
+#
+Loader Bill ready
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 45
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill scans 46
+Loader Bill completes order4
+# At 32 orders... adding more
+#
+#
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 36
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 40
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 44
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 48
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 52
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 56
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 60 ##### 
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 60+4
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 68
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 72
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 76
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 80 TRUCK HAS HIT CAPACITY OF 80 ORDERS - SEE WHAT HAPPENS NEXT!
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 80+4
+#
+Order SEL Blue
+Order SES Red
+Order S Beige
+Order S White
+Picker James ready
+Picker James scans 1
+Picker James scans 2
+Picker James scans 9
+Picker James scans 10
+Picker James scans 21
+Picker James scans 22
+Picker James scans 39
+Picker James scans 40
+Picker James completes picking
+Sequencer Sue ready
+Sequencer Sue scans 1
+Sequencer Sue scans 9
+Sequencer Sue scans 21
+Sequencer Sue scans 39
+Sequencer Sue scans 2
+Sequencer Sue scans 10
+Sequencer Sue scans 22
+Sequencer Sue scans 40
+Sequencer Sue completes sequencing
+Loader Bill ready
+Loader Bill scans 1
+Loader Bill scans 9
+Loader Bill scans 21
+Loader Bill scans 39
+Loader Bill scans 2
+Loader Bill scans 10
+Loader Bill scans 22
+Loader Bill scans 40
+Loader Bill completes loading
+# 80+8
