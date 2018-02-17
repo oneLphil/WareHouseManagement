@@ -1,17 +1,9 @@
 # WareHouseManagement
 javac Marshalling.java OrderHandler.java Pallet.java Picker.java PickRequest.java Simulator.java StockRoom.java Truck.java Warehouse.java
 java project.Simulator
- +++++++++++++++++++++++++++++++++
- +                               +
- +----WAREHOUSE SIMULATOR 2017---+
- +                               +
- +      *operator's manual*      +
- +                               +
- +                               +
- +++++++++++++++++++++++++++++++++
+ 
 
  Welcome to Warehouse Simulator 2017.
- Thank you for purchasing our product!
  
  You'll find detailed instructions below on how to operate your warehouse simulation.
 
